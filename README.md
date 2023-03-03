@@ -29,12 +29,12 @@ State management
 
 https://github.com/pmndrs/zustand
 
-<!-- Database -->
+<!-- Authentication -->
 Authentication
 
-https://clerk.dev/
-
 https://supabase.com/docs/guides/auth/overview
+
+https://clerk.dev/
 
 <!-- Database -->
 Database
@@ -43,17 +43,73 @@ https://render.com/
 
 https://railway.app/
 
+https://docs.upstash.com/redis/quickstarts/nextjs13
+
+<!-- Form -->
+Form
+
+https://react-hook-form.com/get-started/
+
+<!-- Toast -->
+Toast
+
+https://react-hot-toast.com/
+
+https://sonner.emilkowal.ski/
+
 ### Monorepo
 
 https://github.com/t3-oss/create-t3-turbo
 
-### Utilities
+<!-- 
+More Situational extensions
+-->
+
+## Utilities
+
+<!-- Visuals -->
+Icons
+
+https://lucide.dev/
+
+Loading Spinners
+
+https://www.npmjs.com/package/react-spinners
+
+Touch Sliders
+
+https://swiperjs.com/get-started
+
+Charts
+
+https://react-chartjs-2.js.org/
+
+Testing data
+
+https://fakerjs.dev/
+
+<!-- Form related -->
+Uploaders
+
+https://www.npmjs.com/package/react-uploader
+
+Multiselect Dropdown
 
 https://react-select.com/
+
+<!-- Miscellaneous -->
+
+Payments
+
+https://stripe.com/docs/payments/quickstart
 
 Offline support
 
 https://github.com/shadowwalker/next-pwa
+
+Analytics
+
+https://posthog.com/docs/sdks/react
 
 ## References
 
@@ -75,3 +131,7 @@ https://turbo.build/
 Things I want to try
 
 https://github.com/tokio-rs/axum
+
+https://github.com/satnaing/astro-paper
+
+https://xstate.js.org/docs/recipes/react.html
